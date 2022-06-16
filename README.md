@@ -1,6 +1,6 @@
 ## Online Supplement of:
 
-# *New Ideas for the Feasibility Pump: Using Multiple Reference Vectors*
+# *Feasibility Pump 3.0: Using Multiple Reference Vectors and Objective Scaling*
 
 ##### Gioni Mexi<sup>1</sup> 
 
